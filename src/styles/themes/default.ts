@@ -1,0 +1,17 @@
+export const defaultTheme = {
+  white: '#fff',
+  black: '#000',
+  'black-800': '#040C18',
+  'black-900': '#0E0E0E',
+  'orange-200': '#F49867',
+  'orange-300': '#FF8A71',
+  'orange-800': '#FF4820',
+  'blue-100': '#71E5FF',
+  'blue-300': '#81AFDD',
+  'blue-400': '#3D6184',
+  'blue-500': '#0F4279',
+  'blue-600': '#052D56',
+  'blue-700': '#042C54',
+  'blue-800': '#031B34',
+  'purple-500': '#AE67FA',
+} as const
